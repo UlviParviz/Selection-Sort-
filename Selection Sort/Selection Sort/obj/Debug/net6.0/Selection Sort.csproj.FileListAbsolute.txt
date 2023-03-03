@@ -1,0 +1,15 @@
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\bin\Debug\net6.0\Selection Sort.exe
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\bin\Debug\net6.0\Selection Sort.deps.json
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\bin\Debug\net6.0\Selection Sort.runtimeconfig.json
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\bin\Debug\net6.0\Selection Sort.dll
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\bin\Debug\net6.0\Selection Sort.pdb
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.csproj.AssemblyReference.cache
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.AssemblyInfo.cs
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.dll
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\refint\Selection Sort.dll
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.pdb
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\Selection Sort.genruntimeconfig.cache
+C:\Users\Ulvi Spaethe\OneDrive\Desktop\Selection Sort\Selection Sort\obj\Debug\net6.0\ref\Selection Sort.dll
